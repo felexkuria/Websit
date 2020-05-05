@@ -1,3 +1,3 @@
-#  Responsive Website tutotorial
-am learning how  html css and javascript
-this is lesson from from julio codes
+#  Node js class by shaun (Net Ninja)
+am learning how Nodejs
+this is lesson from from net ninja
